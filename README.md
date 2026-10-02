@@ -102,14 +102,12 @@ football-ticket-booking/
 │
 ├── README.md
 ├── QUERY.sql
-└── ERD
 ```
 
 ## Technologies
 
 * **PostgreSQL**
-* **SQL**
-* **Draw.io / Lucidchart** — ERD Design
+* **Draw.io** — ERD Design
 * **GitHub** — Source Code & Submission
 
 ## Sample Data
@@ -137,11 +135,9 @@ CREATE DATABASE footballTicket;
 
 ## Important Links
 
-* **ERD:** https://drive.google.com/file/d/1PBw2YSjh-VdAAv-lUshRTLRWlsEB8B32/view?usp=drive_link
+* **[ERD Diagram](https://drive.google.com/file/d/1PBw2YSjh-VdAAv-lUshRTLRWlsEB8B32/view?usp=drive_link)**
 
 ## 👤 Author
 
 **Kazi Maisha Jannath**
-
-
 
